@@ -55,7 +55,7 @@ $ docker-compose up
 
 # Usage
 
-## mutantapi urls
+## statsapi urls
 
 - Amazon AWS: http://magnetostats.us-east-2.elasticbeanstalk.com
 - Local environment docker: http://127.0.0.1:5000 (use a different port in docker-compose.yml if you are running two or more services at the same time)
@@ -67,7 +67,7 @@ $ docker-compose up
 GET → /stats/    
 
 
-## It is mutant dna response
+## Example response
 
 Response Code   
 200-OK  
